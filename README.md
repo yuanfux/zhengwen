@@ -1,9 +1,9 @@
-<div style="text-align: center">
+<div style="width: 100%; text-align: center">
   <img src="./src/img/icon-128.png">
   <h1>正文</h1>
 </div>
 
-> 一个能将任何内容转义成正能量的中文词汇，并在任何网站中随时查看转义前的原文的Chrome浏览器插件
+> 一个能将任何内容转义成正能量的中文词汇，并在任何网站中随时查看转义前原文的Chrome浏览器插件
 
 ## 使用
 ### 插件内的双向转义
