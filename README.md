@@ -12,20 +12,22 @@
 </div>
 
 ### 页面内的选择释义
-#### 在任何页面内选中需要释义的文本来查看原文
+
+> 在任何页面内选中需要释义的文本来查看原文
+
 <div>
   <div>
     <h5>例1.虎扑</h5>
-    <img src="./src/img/zhihu.gif" width="50%">
+    <img src="./src/img/zhihu.gif" width="60%">
   </div>
   <div>
     <h5>例2.知乎</h5>
-    <img src="./src/img/hupu.gif" width="50%">
+    <img src="./src/img/hupu.gif" width="60%">
   </div>
 </div>
 
 
-> 可通过勾选插件内的`启用选择释义`来开启或关闭此功能
+> 可通过勾选插件内的`启用选择释义✅`来开启或关闭此功能
 
 ## License
 MIT
