@@ -40,6 +40,10 @@
     <h5>例2.虎扑</h5>
     <img src="./src/img/hupu.gif" width="60%">
   </div>
+  <div>
+    <h5>例3.贴吧</h5>
+    <img src="./src/img/tieba.gif" width="60%">
+  </div>
 </div>
 
 
