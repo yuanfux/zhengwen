@@ -12,9 +12,10 @@
 
 
 <div>
-  <img src="./src/img/zhihu.gif" width="50%">
-  <img src="./src/img/hupu.gif" width="50%">
+  <img src="./src/img/zhihu.gif" width="49%">
+  <img src="./src/img/hupu.gif" width="49%">
 </div>
+
 
 > 可通过勾选插件内的`启用选择释义`来开启或关闭此功能
 
