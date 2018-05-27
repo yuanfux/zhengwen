@@ -7,6 +7,8 @@
 ## 使用
 ### 插件内的双向转义
 
+> 将任何文本转义成正能量中文词汇，并可随时还原文本
+
 <div>
   <img src="./src/img/translate.gif" width="50%">
 </div>
