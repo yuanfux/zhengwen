@@ -1,0 +1,13 @@
+.textarea-container {
+	text-align: center;
+}
+
+textarea {
+	height: 100px;
+	width: 200px;
+	resize: none;
+}
+
+.btn-container {
+	text-align: center;
+}
