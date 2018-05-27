@@ -1,7 +1,7 @@
 {
   "name": "positive-slang",
   "version": "0.0.1",
-  "description": "弘扬社会正能量，将任何内容转义成正能量的中文词汇，在任何网站中随时查看转义前的原文",
+  "description": "将任何内容转义成正能量的中文词汇，在任何网站中随时查看转义前的原文",
   "scripts": {
     "build": "node utils/build.js",
     "start": "node utils/webserver.js"

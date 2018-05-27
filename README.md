@@ -4,6 +4,14 @@
 
 > 一个能将任何内容转义成正能量的中文词汇，并在任何网站中随时查看转义前原文的Chrome浏览器插件
 
+## 安装
+### 从谷歌应用商店获得
+[谷歌应用商店](https://chrome.google.com/webstore/detail/%E6%AD%A3%E6%96%87/fjmkljimdfefcmegkkpppfioeokilnaa)
+
+### 手动安装
+1. 将当前GitHub文件库中`build`目录下的`build.crx`文件下载至电脑
+2. 将crx文件拖入Chrome浏览器内完成安装
+
 ## 使用
 ### 插件内的双向转义
 
