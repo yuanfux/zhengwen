@@ -12,11 +12,11 @@
 [谷歌应用商店](https://chrome.google.com/webstore/detail/%E6%AD%A3%E6%96%87/fjmkljimdfefcmegkkpppfioeokilnaa)
 
 ### 手动安装
-1. 将当前GitHub文件库中`build`目录下载至电脑
+1. 将当前GitHub文件库下载至电脑
 2. 点击Chrome浏览器右上角的竖直排列的`···`按键
 3. 点击`更多工具`，点击`扩展程序`，点击右上角的`开发者模式`
 4. 点击`搜索栏`下的`加载已解压的扩展程序`
-5. 选择刚刚下载的`build`所在路径，安装完成
+5. 选择刚刚下载的文件库中`build`目录所在的路径，安装完成
 
 ## 使用
 ### 插件内的双向转义
