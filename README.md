@@ -4,13 +4,13 @@
 ## 使用
 ### 插件内的双向转义
 
-![png broken](./src/img/translate.gif =300px)
+![png broken](./src/img/translate.gif){:width="30%"}
 
 ### 页面内的选择释义
 
-![png broken](./src/img/zhihu.gif =300px)
+![png broken](./src/img/zhihu.gif){:width="30%"}
 
-![png broken](./src/img/hupu.gif =300px)
+![png broken](./src/img/hupu.gif){:width="30%"}
 
 > 可通过勾选插件内的`启用选择释义`来开启或关闭此功能
 
