@@ -19,11 +19,11 @@
 
 <div>
   <div>
-    <h5>例1.虎扑</h5>
+    <h5>例1.知乎</h5>
     <img src="./src/img/zhihu.gif" width="60%">
   </div>
   <div>
-    <h5>例2.知乎</h5>
+    <h5>例2.虎扑</h5>
     <img src="./src/img/hupu.gif" width="60%">
   </div>
 </div>
