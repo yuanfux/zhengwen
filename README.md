@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/img/samll-title-icon.png">
+  <img src="./src/img/small-title-icon.png">
 </p>
 
 > 一个能将任何内容转义成正能量的中文词汇，并在任何网站中随时查看转义前原文的Chrome浏览器插件
